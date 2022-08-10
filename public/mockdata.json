@@ -98,34 +98,206 @@
     },
     {
         "id": "17",
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
+        "name": "style17",
+        "description": "This is Style Seventeen",
+        "image": "img/styleassessment17.jpg"
     },
     {
         "id": "18",
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
-    },{
+        "name": "style18",
+        "description": "This is Style Eighteen",
+        "image": "img/styleassessment18.jpg"
+    },
+    {
         "id": "19",
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
+        "name": "style19",
+        "description": "This is Style Nineteen",
+        "image": "img/styleassessment19.jpg"
     },
     {
         "id": "20",
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
+        "name": "style20",
+        "description": "This is Style Twenty",
+        "image": "img/styleassessment20.jpg"
     },
     {
         "id": "21",
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
+        "name": "style21",
+        "description": "This is Style TwentyOne",
+        "image": "img/styleassessment21.jpg"
     },
-
-
-    ]
+    {
+        "id": "22",
+        "name": "style22",
+        "description": "This is Style TwentyTwo",
+        "image": "img/styleassessment22.jpg"
+    },
+    {
+        "id": "23",
+        "name": "style23",
+        "description": "This is Style TwentyThree",
+        "image": "img/styleassessment23.jpg"
+    },  
+    {
+        "id": "24",
+        "name": "style24",
+        "description": "This is Style TwentyFour",
+        "image": "img/styleassessment24.jpg"
+    },  
+    {
+        "id": "25",
+        "name": "style25",
+        "description": "This is Style TwentyFive",
+        "image": "img/styleassessment25.jpg"
+    },  
+    {
+        "id": "26",
+        "name": "style26",
+        "description": "This is Style TwentySix",
+        "image": "img/styleassessment26.jpg"
+    },  
+    {
+        "id": "27",
+        "name": "style27",
+        "description": "This is Style TwentySeven",
+        "image": "img/styleassessment27.jpg"
+    },  
+    {
+        "id": "28",
+        "name": "style28",
+        "description": "This is Style TwentyEight",
+        "image": "img/styleassessment28.jpg"
+    },  
+    {
+        "id": "29",
+        "name": "style29",
+        "description": "This is Style TwentyNine",
+        "image": "img/styleassessment29.jpg"
+    },  
+    {
+        "id": "30",
+        "name": "style30",
+        "description": "This is Style Thirty",
+        "image": "img/styleassessment3.jpg"
+    },
+    {
+        "id": "31",
+        "name": "style31",
+        "description": "This is Style ThirtyOne",
+        "image": "img/styleassessment31.jpg"
+    },
+    {
+        "id": "32",
+        "name": "style32",
+        "description": "This is Style ThirtyTwo",
+        "image": "img/styleassessment32.jpg"
+    },
+    {
+        "id": "33",
+        "name": "style33",
+        "description": "This is Style ThirtyThree",
+        "image": "img/styleassessment33.jpg"
+    },
+    {
+        "id": "34",
+        "name": "style34",
+        "description": "This is Style ThirtyFour",
+        "image": "img/styleassessment34.jpg"
+    },
+    {
+        "id": "35",
+        "name": "style35",
+        "description": "This is Style ThirtyFive",
+        "image": "img/styleassessment35.jpg"
+    },
+    {
+        "id": "36",
+        "name": "style36",
+        "description": "This is Style ThirtySix",
+        "image": "img/styleassessment36.jpg"
+    },
+    {
+        "id": "37",
+        "name": "style37",
+        "description": "This is Style ThirtySeven",
+        "image": "img/styleassessment37.jpg"
+    },
+    {
+        "id": "38",
+        "name": "style38",
+        "description": "This is Style ThirtyEight",
+        "image": "img/styleassessment38.jpg"
+    },
+    {
+        "id": "39",
+        "name": "style39",
+        "description": "This is Style ThirtyNine",
+        "image": "img/styleassessment39.jpg"
+    },
+    {
+        "id": "40",
+        "name": "style40",
+        "description": "This is Style Fourty",
+        "image": "img/styleassessment40.jpg"
+    },
+    {
+        "id": "41",
+        "name": "style41",
+        "description": "This is Style FourtyOne",
+        "image": "img/styleassessment41.jpg"
+    },
+    {
+        "id": "42",
+        "name": "style42",
+        "description": "This is Style FourtyTwo",
+        "image": "img/styleassessment42.jpg"
+    },
+    {
+        "id": "43",
+        "name": "style43",
+        "description": "This is Style FourtyThree",
+        "image": "img/styleassessment43.jpg"
+    },
+    {
+        "id": "44",
+        "name": "style44",
+        "description": "This is Style FourtyFour",
+        "image": "img/styleassessment44.jpg"
+    },
+    {
+        "id": "45",
+        "name": "style45",
+        "description": "This is Style FourtyFive",
+        "image": "img/styleassessment45.jpg"
+    },
+    {
+        "id": "46",
+        "name": "style46",
+        "description": "This is Style FourtySix",
+        "image": "img/styleassessment46.jpg"
+    },
+    {
+        "id": "47",
+        "name": "style47",
+        "description": "This is Style FourtySeven",
+        "image": "img/styleassessment47.jpg"
+    },
+    {
+        "id": "48",
+        "name": "style48",
+        "description": "This is Style FourtyEight",
+        "image": "img/styleassessment48.jpg"
+    },
+    {
+        "id": "49",
+        "name": "style49",
+        "description": "This is Style FourtyNine",
+        "image": "img/styleassessment49.jpg"
+    },
+    {
+        "id": "50",
+        "name": "style50",
+        "description": "This is Style Fifty",
+        "image": "img/styleassessment50.jpg"
+    },
 }
