@@ -4,7 +4,7 @@
         "id": "1",
         "name": "style1",
         "description": "This is Style One",
-        "image": "img/styleassessment1.jpg"
+        "image": "./img/styleassessment1.jpg"
     },
     {
         "id": "2",
@@ -124,8 +124,7 @@
         "name": "style7",
         "description": "This is Style Seven",
         "image": "img/styleassessment7.jpg"
-    },
-
+    }
 
     ]
 }
