@@ -122,7 +122,7 @@
     },
     {
         "id": "21",
-<<<<<<< HEAD
+
         "name": "style21",
         "description": "This is Style TwentyOne",
         "image": "img/styleassessment21.jpg"
@@ -300,13 +300,8 @@
         "name": "style50",
         "description": "This is Style Fifty",
         "image": "img/styleassessment50.jpg"
-    },
-=======
-        "name": "style7",
-        "description": "This is Style Seven",
-        "image": "img/styleassessment7.jpg"
     }
 
+
     ]
->>>>>>> c775dbf6cf5e1ffeacf234b00559bd23af198f87
 }
