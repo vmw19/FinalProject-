@@ -4,123 +4,313 @@
         "id": "1",
         "name": "style1",
         "description": "This is Style One",
-        "image": "./imgmen/styleassessment1.jpg"
+        "image": "./imgmen/man-style1.jpg"
     },
     {
         "id": "2",
         "name": "style2",
         "description": "This is Style Two",
-        "image": "imgmen/styleassessment2.jpg"
+        "image": "imgmen/man-style2.jpg"
     },
     {
         "id": "3",
         "name": "style3",
         "description": "This is Style Three",
-        "image": "imgmen/styleassessment3.jpg"
+        "image": "imgmen/man-style3.jpg"
     },
     {
         "id": "4",
         "name": "style4",
         "description": "This is Style Four",
-        "image": "imgmen/styleassessment4.jpg"
+        "image": "imgmen/man-style4.jpg"
     },
     {
         "id": "5",
         "name": "style5",
         "description": "This is Style Five",
-        "image": "imgmen/styleassessment5.jpg"
+        "image": "imgmen/man-style5.jpg"
     },
     {
         "id": "6",
         "name": "style6",
         "description": "This is Style Six",
-        "image": "imgmen/styleassessment6.jpg"
+        "image": "imgmen/man-style6.jpg"
     },
     {
         "id": "7",
         "name": "style7",
         "description": "This is Style Seven",
-        "image": "imgmen/styleassessment7.jpg"
+        "image": "imgmen/man-style7.jpg"
     },
     {
         "id": "8",
         "name": "style8",
         "description": "This is Style Eight",
-        "image": "imgmen/styleassessment8.jpg"
+        "image": "imgmen/man-style8.jpg"
     },
     {
         "id": "9",
         "name": "style9",
         "description": "This is Style Nine",
-        "image": "imgmen/styleassessment9.jpg"
+        "image": "imgmen/man-style9.jpg"
     },
     {
         "id": "10",
         "name": "style10",
         "description": "This is Style Ten",
-        "image": "imgmen/styleassessment10.jpg"
+        "image": "imgmen/man-style10.jpg"
     },
     {
         "id": "11",
         "name": "style11",
         "description": "This is Style Eleven",
-        "image": "imgmen/styleassessment11.jpg"
+        "image": "imgmen/man-style11.jpg"
     },
     {
         "id": "12",
         "name": "style12",
         "description": "This is Style Twelve",
-        "image": "imgmen/styleassessment12.jpg"
+        "image": "imgmen/man-style12.jpg"
     },
     {
         "id": "13",
         "name": "style13",
         "description": "This is Style Thirteen",
-        "image": "imgmen/styleassessment13.jpg"
+        "image": "imgmen/man-style13.jpg"
     },
     {
         "id": "14",
         "name": "style14",
         "description": "This is Style Fourteen",
-        "image": "imgmen/styleassessment14.jpg"
+        "image": "imgmen/man-style14.jpg"
     },
     {
         "id": "15",
         "name": "style15",
         "description": "This is Style Fifteen",
-        "image": "imgmen/styleassessment15.jpg"
+        "image": "imgmen/man-style15.jpg"
     },
     {
         "id": "16",
         "name": "style16",
         "description": "This is Style Sixteen",
-        "image": "imgmen/styleassessment16.jpg"
+        "image": "imgmen/man-style16.jpg"
     },
     {
         "id": "17",
         "name": "style17",
         "description": "This is Style Seventeen",
-        "image": "imgmen/styleassessment17.jpg"
+        "image": "imgmen/man-style17.jpg"
     },
     {
         "id": "18",
         "name": "style18",
         "description": "This is Style Eighteen",
-        "image": "imgmen/styleassessment18.jpg"
+        "image": "imgmen/man-style18.jpg"
     },
     {
         "id": "19",
         "name": "style19",
         "description": "This is Style Nineteen",
-        "image": "imgmen/styleassessment19.jpg"
+        "image": "imgmen/man-style19.jpg"
     },
     {
         "id": "20",
         "name": "style20",
         "description": "This is Style Twenty",
-        "image": "imgmen/styleassessment20.jpg"
-    }
-
+        "image": "imgmen/man-style20.jpg"
+    },
+    {
+        "id": "21",
+        "name": "style21",
+        "description": "This is Style TwentyOne",
+        "image": "imgmen/man-style21.jpg"
+    },
+    {
+        "id": "22",
+        "name": "style22",
+        "description": "This is Style TwentyTwo",
+        "image": "imgmen/man-style22.jpg"
+    },
+    {
+        "id": "23",
+        "name": "style23",
+        "description": "This is Style TwentyThree",
+        "image": "imgmen/man-style23.jpg"
+    },
+    {
+        "id": "24",
+        "name": "style24",
+        "description": "This is Style TwentyFour",
+        "image": "imgmen/man-style24.jpg"
+    },
+    {
+        "id": "25",
+        "name": "style25",
+        "description": "This is Style TwentyFive",
+        "image": "imgmen/man-style25.jpg"
+    },
+    {
+        "id": "26",
+        "name": "style26",
+        "description": "This is Style TwentySix",
+        "image": "imgmen/man-style26.jpg"
+    },
+    {
+        "id": "27",
+        "name": "style27",
+        "description": "This is Style TwentySeven",
+        "image": "imgmen/man-style27.jpg"
+    },
+    {
+        "id": "28",
+        "name": "style28",
+        "description": "This is Style TwentyEight",
+        "image": "imgmen/man-style28.jpg"
+    },
+    {
+        "id": "29",
+        "name": "style29",
+        "description": "This is Style TwentyNine",
+        "image": "imgmen/man-style29.jpg"
+    },
+    {
+        "id": "30",
+        "name": "style30",
+        "description": "This is Style Thirty",
+        "image": "imgmen/man-style30.jpg"
+    },
+    {
+        "id": "31",
+        "name": "style31",
+        "description": "This is Style ThirtyOne",
+        "image": "imgmen/man-style31.jpg"
+    },
+    {
+        "id": "32",
+        "name": "style32",
+        "description": "This is Style ThirtyTwo",
+        "image": "imgmen/man-style32.jpg"
+    },
+    {
+        "id": "33",
+        "name": "style33",
+        "description": "This is Style ThirtyThree",
+        "image": "imgmen/man-style33.jpg"
+    },
+    {
+        "id": "34",
+        "name": "style34",
+        "description": "This is Style ThirtyFour",
+        "image": "imgmen/man-style34.jpg"
+    },
+    {
+        "id": "35",
+        "name": "style35",
+        "description": "This is Style ThirtyFive",
+        "image": "imgmen/man-style35.jpg"
+    },
+    {
+        "id": "36",
+        "name": "style36",
+        "description": "This is Style ThirtySix",
+        "image": "imgmen/man-style36.jpg"
+    }, {
+        "id": "37",
+        "name": "style37",
+        "description": "This is Style ThirtySeven",
+        "image": "imgmen/man-style37.jpg"
+    },
+    {
+        "id": "38",
+        "name": "style38",
+        "description": "This is Style ThirtyEight",
+        "image": "imgmen/man-style38.jpg"
+    },
+    {
+        "id": "39",
+        "name": "style39",
+        "description": "This is Style ThirtyNine",
+        "image": "imgmen/man-style39.jpg"
+    },
+    {
+        "id": "40",
+        "name": "style40",
+        "description": "This is Style Fourty",
+        "image": "imgmen/man-style40.jpg"
+    },
+    {
+        "id": "41",
+        "name": "style41",
+        "description": "This is Style FourtyOne",
+        "image": "imgmen/man-style41.jpg"
+    },
+    {
+        "id": "42",
+        "name": "style42",
+        "description": "This is Style FourtyTwo",
+        "image": "imgmen/man-style42.jpg"
+    },
+    {
+        "id": "43",
+        "name": "style43",
+        "description": "This is Style FourtyThree",
+        "image": "imgmen/man-style43.jpg"
+    },
+    {
+        "id": "44",
+        "name": "style44",
+        "description": "This is Style FourtyFour",
+        "image": "imgmen/man-style44.jpg"
+    },
+    {
+        "id": "45",
+        "name": "style45",
+        "description": "This is Style FourtyFive",
+        "image": "imgmen/man-style45.jpg"
+    },
+    {
+        "id": "46",
+        "name": "style46",
+        "description": "This is Style FourtySix",
+        "image": "imgmen/man-style46.jpg"
+    }, 
+    {
+        "id": "47",
+        "name": "style47",
+        "description": "This is Style FourtySeven",
+        "image": "imgmen/man-style47.jpg"
+    }, 
+    {
+        "id": "48",
+        "name": "style48",
+        "description": "This is Style FourtyEight",
+        "image": "imgmen/man-style48.jpg"
+    },
+    {
+        "id": "49",
+        "name": "style49",
+        "description": "This is Style FourtyNine",
+        "image": "imgmen/man-style48.jpg"
+    },
+    {
+        "id": "50",
+        "name": "style50",
+        "description": "This is Style Fifty",
+        "image": "imgmen/man-style50.jpg"
+    },
+    {
+        "id": "51",
+        "name": "style51",
+        "description": "This is Style FiftyOne",
+        "image": "imgmen/man-style51.jpg"
+    },
+    {
+        "id": "52",
+        "name": "style52",
+        "description": "This is Style FiftyTwo",
+        "image": "imgmen/man-style52.jpg"
+    },
 ]
 
 }
