@@ -4,265 +4,253 @@
         "id": "1",
         "name": "style1",
         "description": "This is Style One",
-        "image": "./imgteenboy/teenboy1.jpg"
+        "image": "./imgteenboy/teenageboy-style1.jpg"
     },
     {
         "id": "2",
         "name": "style2",
         "description": "This is Style Two",
-        "image": "imgteenboy/teenboy2.jpg"
+        "image": "imgteenboy/teenageboy-style2.jpg"
     },
     {
         "id": "3",
         "name": "style3",
         "description": "This is Style Three",
-        "image": "imgteenboy/teenboy3.jpg"
+        "image": "imgteenboy/teenageboy-style3.jpg"
     },
     {
         "id": "4",
         "name": "style4",
         "description": "This is Style Four",
-        "image": "imgteengboy/teenboy4.jpg"
+        "image": "imgteengboy/teenageboy-style4.jpg"
     },
     {
         "id": "5",
         "name": "style5",
         "description": "This is Style Five",
-        "image": "imgteenboy/teenboy5.jpg"
+        "image": "imgteenboy/teenageboy-style5.jpg"
     },
     {
         "id": "6",
         "name": "style6",
         "description": "This is Style Six",
-        "image": "imgteengboy/teenboy6.jpg"
+        "image": "imgteengboy/teenageboy-style6.jpg"
     },
     {
         "id": "7",
         "name": "style7",
         "description": "This is Style Seven",
-        "image": "imgteenboy/teenboy7.jpg"
+        "image": "imgteenboy/teenageboy-style7.jpg"
     },
     {
         "id": "8",
         "name": "style8",
         "description": "This is Style Eight",
-        "image": "imgteenboy/teenboy8.jpg"
+        "image": "imgteenboy/teenageboy-style8.jpg"
     },
     {
         "id": "9",
         "name": "style9",
         "description": "This is Style Nine",
-        "image": "imgteenboy/teenboy9.jpg"
+        "image": "imgteenboy/teenageboy-style9.jpg"
     },
     {
         "id": "10",
         "name": "style10",
         "description": "This is Style Ten",
-        "image": "imgteenboy/teenboy10.jpg"
+        "image": "imgteenboy/teenageboy-style10.jpg"
     },
     {
         "id": "11",
         "name": "style11",
         "description": "This is Style Eleven",
-        "image": "imgteenboy/teenboy11.jpg"
+        "image": "imgteenboy/teenageboy-style11.jpg"
     },
     {
         "id": "12",
         "name": "style12",
         "description": "This is Style Twelve",
-        "image": "imgteenboy/teenboy12.jpg"
+        "image": "imgteenboy/teenageboy-style12.jpg"
     },
     {
         "id": "13",
         "name": "style13",
         "description": "This is Style Thirteen",
-        "image": "imgteenboy/teenboy13.jpg"
+        "image": "imgteenboy/teenageboy-style13.jpg"
     },
     {
         "id": "14",
         "name": "style14",
         "description": "This is Style Fourteen",
-        "image": "imgteenboy/teenboy14.jpg"
+        "image": "imgteenboy/teenageboy-style14.jpg"
     },
     {
         "id": "15",
         "name": "style15",
         "description": "This is Style Fifteen",
-        "image": "imgteenboy/teenboy15.jpg"
+        "image": "imgteenboy/teenageboy-style15.jpg"
     },
     {
         "id": "16",
         "name": "style16",
         "description": "This is Style Sixteen",
-        "image": "imgteenboy/teenboy16.jpg"
+        "image": "imgteenboy/teenageboy-style16.jpg"
     },
     {
         "id": "17",
         "name": "style17",
         "description": "This is Style Seventeen",
-        "image": "imgteenboy/teenboy17.jpg"
+        "image": "imgteenboy/teenbageoy-style17.jpg"
     },
     {
         "id": "18",
         "name": "style18",
         "description": "This is Style Eighteen",
-        "image": "imgteenboy/teenboy18.jpg"
+        "image": "imgteenboy/teenageboy-style18.jpg"
     },
     {
         "id": "19",
         "name": "style19",
         "description": "This is Style Nineteen",
-        "image": "imgteenboy/teenboy19.jpg"
+        "image": "imgteenboy/teenageboy-style19.jpg"
     },
     {
         "id": "20",
         "name": "style20",
         "description": "This is Style Twenty",
-        "image": "imgteenboy/teenboy20.jpg"
+        "image": "imgteenboy/teenageboy-style20.jpg"
     },
     {
         "id": "21",
         "name": "style21",
         "description": "This is Style TwentyOne",
-        "image": "imgteenboy/teenboy21.jpg"
+        "image": "imgteenboy/teenageboy-style21.jpg"
     },
     {
         "id": "22",
         "name": "style22",
         "description": "This is Style TwentyTwo",
-        "image": "imgteenboy/teenboy22.jpg"
+        "image": "imgteenboy/teenageboy-style22.jpg"
     },
     {
         "id": "23",
         "name": "style23",
         "description": "This is Style TwentyThree",
-        "image": "imgteengboy/teenboy23.jpg"
+        "image": "imgteengboy/teenageboy-style23.jpg"
     },  
     {
         "id": "24",
         "name": "style24",
         "description": "This is Style TwentyFour",
-        "image": "imgteenboy/teenboy24.jpg"
+        "image": "imgteenboy/teenageboy-style24.jpg"
     },  
     {
         "id": "25",
         "name": "style25",
         "description": "This is Style TwentyFive",
-        "image": "imgteenboy/teenboy25.jpg"
+        "image": "imgteenboy/teenageboy-style25.jpg"
     },  
     {
         "id": "26",
         "name": "style26",
         "description": "This is Style TwentySix",
-        "image": "imgteenboy/teenboy26.jpg"
+        "image": "imgteenboy/teenageboy-style26.jpg"
     },  
     {
         "id": "27",
         "name": "style27",
         "description": "This is Style TwentySeven",
-        "image": "imgteenboy/teenboy27.jpg"
+        "image": "imgteenboy/teenageboy-style27.jpg"
 },
     {
     "id": "28",
     "name": "style28",
     "description": "This is Style TwentyEight",
-    "image": "imgteenboy/teenboy28.jpg"
+    "image": "imgteenboy/teenageboy-style28.jpg"
 }, 
     {
     "id": "29",
     "name": "style29",
     "description": "This is Style TwentyNine",
-    "image": "imgteenboy/teenboy29.jpg"
+    "image": "imgteenboy/teenageboy-style29.jpg"
 },  
 {
     "id": "30",
     "name": "style30",
     "description": "This is Style Thirty",
-    "image": "imgteenboy/teenboy30.jpg"
+    "image": "imgteenboy/teenageboy-style30.jpg"
 }, 
     {
     "id": "31",
     "name": "style31",
     "description": "This is Style ThirtyOne",
-    "image": "imgteenboy/teenboy31.jpg"
+    "image": "imgteenboy/teenageboy-style31.jpg"
 }, 
 {
     "id": "32",
     "name": "style32",
     "description": "This is Style ThirtyTwo",
-    "image": "imgteenboy/teenboy32.jpg"
+    "image": "imgteenboy/teenageboy-style32.jpg"
 }, 
     {
     "id": "33",
     "name": "style33",
     "description": "This is Style ThirtyThree",
-    "image": "imgteenboy/teenboy33.jpg"
+    "image": "imgteenboy/teenageboy-style33.jpg"
 }, 
 {
     "id": "34",
     "name": "style34",
     "description": "This is Style ThirtyFour",
-    "image": "imgteenboy/teenboy34.jpg"
+    "image": "imgteenboy/teenageboy-style34.jpg"
 }, 
     {
     "id": "35",
     "name": "style35",
     "description": "This is Style ThirtyFive",
-    "image": "imgteenboy/teenboy35.jpg"
+    "image": "imgteenboy/teenageboy-style35.jpg"
 }, 
 {
     "id": "36",
     "name": "style36",
     "description": "This is Style ThirtySix",
-    "image": "imgteenboy/teenboy36.jpg"
+    "image": "imgteenboy/teenageboy-style36.jpg"
 }, 
     {
     "id": "37",
     "name": "style37",
     "description": "This is Style ThirtySeven",
-    "image": "imgteenboy/teenboy37.jpg"
+    "image": "imgteenboy/teenageboy-style37.jpg"
 }, 
 {
     "id": "38",
     "name": "style38",
     "description": "This is Style ThirtyEight",
-    "image": "imgteenboy/teenboy38.jpg"
+    "image": "imgteenboy/teenageboy-style38.jpg"
 }, 
     {
     "id": "39",
     "name": "style39",
     "description": "This is Style ThirtyNine",
-    "image": "imgteenboy/teenboy39.jpg"
+    "image": "imgteenboy/teenageboy-style39.jpg"
 }, 
 {
     "id": "40",
     "name": "style40",
     "description": "This is Style Fourty",
-    "image": "imgteenboy/teenboy40.jpg"
+    "image": "imgteenboy/teenageboy-style40.jpg"
 }, 
     {
     "id": "41",
     "name": "style41",
     "description": "This is Style FourtyOne",
-    "image": "imgteenboy/teenboy41.jpg"
+    "image": "imgteenboy/teenageboy-style41.jpg"
 }, 
 {
     "id": "42",
     "name": "style42",
     "description": "This is Style FourtyTwo",
-    "image": "imgteenboy/teenboy42.jpg"
-}, 
-    {
-    "id": "43",
-    "name": "style43",
-    "description": "This is Style FourtyThree",
-    "image": "imgteenboy/teenboy43.jpg"
-}, 
-{
-    "id": "44",
-    "name": "style44",
-    "description": "This is Style FourtyFour",
-    "image": "imgteenboy/teenboy44.jpg"
+    "image": "imgteenboy/teenageboy-style42.jpg"
     
 
 }
