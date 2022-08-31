@@ -420,6 +420,205 @@
         "description": "This is Style Seventy",
         "image": "imgteengirl/teenagegirl-style70.jpg"
     },
+    {
+        "id": "71",
+        "name": "style71",
+        "description": "This is Style SeventyOne",
+        "image": "imgteengirl/teenagegirl-style71.jpg"
+    },
+    {
+        "id": "72",
+        "name": "style72",
+        "description": "This is Style SeventyTwo",
+        "image": "imgteengirl/teenagegirl-style72.jpg"
+    },
+    {
+        "id": "73",
+        "name": "style73",
+        "description": "This is Style SeventyThree",
+        "image": "imgteengirl/teenagegirl-style73.jpg"
+    },
+    {
+        "id": "74",
+        "name": "style74",
+        "description": "This is Style SeventyFour",
+        "image": "imgteengirl/teenagegirl-style74.jpg"
+    },
+    {
+        "id": "75",
+        "name": "style75",
+        "description": "This is Style SeventyFive",
+        "image": "imgteengirl/teenagegirl-style75.jpg"
+    },
+    {
+        "id": "76",
+        "name": "style76",
+        "description": "This is Style SeventySix",
+        "image": "imgteengirl/teenagegirl-style76.jpg"
+    },
+    {
+        "id": "77",
+        "name": "style77",
+        "description": "This is Style SeventySeven",
+        "image": "imgteengirl/teenagegirl-style77.jpg"
+    },
+    {
+        "id": "78",
+        "name": "style78",
+        "description": "This is Style SeventyEight",
+        "image": "imgteengirl/teenagegirl-style78.jpg"
+    },
+    {
+        "id": "79",
+        "name": "style79",
+        "description": "This is Style SeventyNine",
+        "image": "imgteengirl/teenagegirl-style79.jpg"
+    },
+    {
+        "id": "80",
+        "name": "style80",
+        "description": "This is Style Eighty",
+        "image": "imgteengirl/teenagegirl-style80.jpg"
+    },
+    {
+        "id": "81",
+        "name": "style81",
+        "description": "This is Style EightyOne",
+        "image": "imgteengirl/teenagegirl-style81.jpg"
+    },
+    {
+        "id": "82",
+        "name": "style82",
+        "description": "This is Style Eighty",
+        "image": "imgteengirl/teenagegirl-style82.jpg"
+    },
+    {
+        "id": "83",
+        "name": "style83",
+        "description": "This is Style Eighty",
+        "image": "imgteengirl/teenagegirl-style83.jpg"
+    },
+    {
+        "id": "84",
+        "name": "style84",
+        "description": "This is Style Eighty",
+        "image": "imgteengirl/teenagegirl-style84.jpg"
+    },
+    {
+        "id": "85",
+        "name": "style85",
+        "description": "This is Style Eighty",
+        "image": "imgteengirl/teenagegirl-style85.jpg"
+    },
+    {
+        "id": "86",
+        "name": "style86",
+        "description": "This is Style EightySix",
+        "image": "imgteengirl/teenagegirl-style86.jpg"
+    },
+    {
+        "id": "87",
+        "name": "style87",
+        "description": "This is Style EightySeven",
+        "image": "imgteengirl/teenagegirl-style87.jpg"
+    },
+    {
+        "id": "88",
+        "name": "style88",
+        "description": "This is Style EightyEight",
+        "image": "imgteengirl/teenagegirl-style88.jpg"
+    },
+    {
+        "id": "89",
+        "name": "style89",
+        "description": "This is Style EightyNine",
+        "image": "imgteengirl/teenagegirl-style89.jpg"
+    },
+    {
+        "id": "90",
+        "name": "style90",
+        "description": "This is Style Ninety",
+        "image": "imgteengirl/teenagegirl-style90.jpg"
+    },
+    {
+        "id": "91",
+        "name": "style91",
+        "description": "This is Style NinetyOne",
+        "image": "imgteengirl/teenagegirl-style91.jpg"
+    },
+    {
+        "id": "92",
+        "name": "style92",
+        "description": "This is Style NinetyTwo",
+        "image": "imgteengirl/teenagegirl-style92.jpg"
+    },
+    {
+        "id": "93",
+        "name": "style93",
+        "description": "This is Style NinetyThree",
+        "image": "imgteengirl/teenagegirl-style93.jpg"
+    },
+    {
+        "id": "94",
+        "name": "style94",
+        "description": "This is Style NinetyFour",
+        "image": "imgteengirl/teenagegirl-style94.jpg"
+    },
+    {
+        "id": "95",
+        "name": "style95",
+        "description": "This is Style NinetyFive",
+        "image": "imgteengirl/teenagegirl-style95.jpg"
+    },
+    {
+        "id": "96",
+        "name": "style96",
+        "description": "This is Style NinetySix",
+        "image": "imgteengirl/teenagegirl-style96.jpg"
+    },
+    {
+        "id": "97",
+        "name": "style97",
+        "description": "This is Style NinetySeven",
+        "image": "imgteengirl/teenagegirl-style97.jpg"
+    },
+    {
+        "id": "98",
+        "name": "style98",
+        "description": "This is Style NinetyEight",
+        "image": "imgteengirl/teenagegirl-style98.jpg"
+    },
+    {
+        "id": "99",
+        "name": "style99",
+        "description": "This is Style NinetyNine",
+        "image": "imgteengirl/teenagegirl-style99.jpg"
+    },
+    {
+        "id": "100",
+        "name": "style100",
+        "description": "This is Style OneHundred",
+        "image": "imgteengirl/teenagegirl-style100.jpg"
+    },
+    {
+        "id": "101",
+        "name": "style101",
+        "description": "This is Style OneHundredOne",
+        "image": "imgteengirl/teenagegirl-style101.jpg"
+    },
+    {
+        "id": "102",
+        "name": "style102",
+        "description": "This is Style OneHundredTwo",
+        "image": "imgteengirl/teenagegirl-style102.jpg"
+    },
+    {
+        "id": "103",
+        "name": "style103",
+        "description": "This is Style OneHundredThree",
+        "image": "imgteengirl/teenagegirl-style103.jpg"
+    }
+
 ]
 
 }
