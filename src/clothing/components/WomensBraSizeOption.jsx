@@ -1,9 +1,9 @@
 import { SelectButton } from 'primereact/selectbutton';
 import React, { useState } from 'react';
 
-const WomensBottomSizeOption = () => {
+const WomensBraSizeOption = () => {
     const [value1, setValue1] = useState('1');
-    const shirtOptions = ['extra small','small', 'med', 'large', 'extra large', '1x', '2x', '3x', '4x'];
+    const braOptions = ['34A','34B', '34C', '36A', '36B', '36C', '38A', '38B', '38C','40A','40B','40C',];
 
     const justifyTemplate = (option) => {
         return <i className={option.icon}></i>;
@@ -12,10 +12,10 @@ const WomensBottomSizeOption = () => {
     return (
         <div>
             <div className="card">
-                <h5>Womens Bottom Size Options</h5>
-                <SelectButton value={value1} options={shirtOptions} onChange={(e) => setValue1(e.value)} />
+                <h5>Womens Bra Size Options</h5>
+                <SelectButton value={value1} options={braOptions} onChange={(e) => setValue1(e.value)} />
             </div>
         </div>
     );
 }
-export default WomensBottomSizeOption;
+export default WomensBraSizeOption;

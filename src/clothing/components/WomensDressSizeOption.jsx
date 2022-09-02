@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 const WomensDressSizeOption = () => {
     const [value1, setValue1] = useState('1');
-    const shirtOptions = ['extra small','small', 'med', 'large', 'extra large', '1x', '2x', '3x', '4x'];
+    const dressOptions = ['extra small','small', 'med', 'large', 'extra large', '1x', '2x', '3x', '4x'];
 
     const justifyTemplate = (option) => {
         return <i className={option.icon}></i>;
@@ -13,7 +13,7 @@ const WomensDressSizeOption = () => {
         <div>
             <div className="card">
                 <h5>Womens Dress Size Options</h5>
-                <SelectButton value={value1} options={shirtOptions} onChange={(e) => setValue1(e.value)} />
+                <SelectButton value={value1} options={dressOptions} onChange={(e) => setValue1(e.value)} />
             </div>
         </div>
     );
